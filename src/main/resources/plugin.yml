@@ -1,0 +1,7 @@
+name: Duperele
+version: ${project.version}
+main: me.domirusz24.as.duperele.duperele.Duperele
+authors: [DomiRusz24]
+commands:
+  giveDuperel:
+    description: giveDuperel
